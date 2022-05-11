@@ -1,0 +1,47 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header, nav, h1 {
+    position: fixed;
+    top: 0px;
+    height:50 px;
+    width:100%;
+    background-color: aquamarine;
+    padding: 10px;
+
+}
+
+a {
+    background-color: aquamarine;
+    position:relative;
+    right: auto;
+}
+
+ .section-one {
+     height: 600px;
+     width: 100%;
+    background-color: brown;
+    text-align: center;
+    align-items: center;
+    border: red solid 10px;
+}
+
+.section-one img {
+    border: greenyellow solid 10px;
+}
+
+.section-two {
+    height: 300px;
+    width: auto;
+    background-color: aquamarine;
+    text-align: center;
+    border: red solid 10px;
+}
+footer {
+    height: 50px;
+    background-color: black;
+    border: red solid 10px;
+    text-align: center;
+    color: antiquewhite;
+}
