@@ -33,7 +33,7 @@ a {
 
 .section-two {
     height: 300px;
-    width: auto;
+    width: 100%;
     background-color: aquamarine;
     text-align: center;
     border: red solid 10px;
