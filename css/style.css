@@ -1,5 +1,8 @@
 * {
     font-family: 'Courier New', Courier, monospace;
+    margin:0;
+    padding:0;
+    
 }
 
 header, nav, h1 {
@@ -8,10 +11,17 @@ header, nav, h1 {
     height:50 px;
     width:100%;
     background-color: aquamarine;
-    padding: 10px;
+    margin: 0;
+    padding: 5px;  
 
 }
-
+.nav-bar {
+    position: relative;
+    left: 70%;
+}
+h2 {
+    margin: 20px 10px;
+}
 a {
     background-color: aquamarine;
     position:relative;
@@ -25,6 +35,7 @@ a {
     text-align: center;
     align-items: center;
     border: red solid 10px;
+    margin-top: 30px;
 }
 
 .section-one img {
